@@ -1,8 +1,6 @@
 # Delta
 
-![Delta Architecture](./assets/arch.png)
-
-Out-of-the-Box Blockchain-powered MPC network
+Out-of-the-Box Blockchain-powered Verifiable PPC Framework
 
 [Homepage](https://deltampc.com/en) | [Documentation](https://docs.deltampc.com/v/en)
 
