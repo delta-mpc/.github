@@ -10,7 +10,7 @@ Delta is a decentralized network to perform statistical and machine learning com
 
 Delta is useful in a lot of cases such as risk assessment model training using private data from several banks, or health condition prediction for patients using data from several hospitals.
 
-By encapsulating modern privacy-preserving computation techniques inside, Delta doesn't require users to have any knowledge about privacy-preserving computation. Developers just write computation task using PyTorch and send it to the Delta network. And the rest parts are taken care of by Delta.
+By encapsulating modern Privacy-Preserving Computation(PPC) techniques inside, Delta doesn't require users to have any prior knowledge about PPC. Developers just write the computation tasks using PyTorch and Pandas, send it to the Delta network. And the rest parts are taken care of by Delta.
 
 Delta network determines the task type by checking the distribution status of the data required by the task, and transforms the task into horizontal/vertical federated learning, or federated analytics task and executes it on the network.
 
